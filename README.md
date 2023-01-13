@@ -19,7 +19,7 @@
 - qimage2ndarray
 
 # 如何使用
-- **如果您没有使用python以及GitHub的经验，请点击右方的Releases，下载最上方的zip文件。**
+- **如果您没有使用python以及GitHub的经验，请点击右方的Releases，下载下面的exe文件。**
 - 如果您要直接使用源码，下载源码之后把resource里面的两张图片放在源码同目录，直接运行即可。
 
 
